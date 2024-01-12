@@ -1,2 +1,4 @@
 # Meuzz
- Developed a secure messaging app with email authentication, Firebase real-time messaging, and Google Sign-In. The modern UI, powered by Material Widgets, features user profiles, read status indicators, and efficient message management. Push notifications and last-seen status enhance user engagement.
+Created a secure messaging app with email authentication, real-time messaging through Firebase, and Google Sign-In, ensuring a seamless and secure user experience.
+Developed a modern UI with Material Widgets featuring user profiles, read status indicators and efficient message management 
+Implemented push notifications to keep users informed and incorporating features like last-seen status to make communication  engaging.
